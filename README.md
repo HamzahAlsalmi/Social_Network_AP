@@ -64,7 +64,10 @@ POST /api/thoughts/:thoughtId/reactions → Add a reaction to a thought
 
 DELETE /api/thoughts/:thoughtId/reactions/:reactionId → Remove a reaction from a thought
 
-Walkthrough Video
+Walkthrough Video:
+
+
+https://drive.google.com/file/d/1BOEBgLud-bkJ98nTYi4MuzewSGicLNR1/view
 
 
 
